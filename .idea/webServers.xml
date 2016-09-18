@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7bac8626-dfa9-4b82-8bb1-892b20274449" name="Winklerpage" url="http://ftp57.world4you.com">
+        <fileTransfer host="ftp57.world4you.com" port="21" password="dfeddfc3dfc8dfdedfd9df9bdf98df99df9e" username="ftp3467527">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
